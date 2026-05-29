@@ -1,4 +1,4 @@
-export const BASE_URL = "https://job-portal-neon-one.vercel.app/";
+export const BASE_URL = "https://job-portal-avlj.onrender.com";
 
 export const API_PATHS = {
   AUTH: {
