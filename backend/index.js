@@ -17,6 +17,7 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:5173",
   "https://job-portal-new-lilac.vercel.app",
+  "https://job-portal-oizrtkyz0-aditya2909s-projects.vercel.app",
 ];
 
 app.use(
